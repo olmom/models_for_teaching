@@ -1,5 +1,6 @@
 *.swp
 __pycache__
 old_files
+sliders
 
 prod_deg.ipynb
