@@ -1,6 +1,7 @@
 *.swp
 __pycache__
 old_files
+.vscode
 sliders
 
 prod_deg.ipynb
