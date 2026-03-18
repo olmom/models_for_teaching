@@ -3,7 +3,7 @@ All exercises for this workshop are provided as interactive Jupyter notebooks th
 
 ### 🚀 How to use these notebooks
 
-1. Click on an **“Open in Colab”** button below (or right-click and **"open link in new tab"** to open multiple notebooks at once)  
+1. Click on an **"Open in Colab"** button below (or right-click and **"open link in new tab"** to open multiple notebooks at once)  
 2. The notebook will open automatically  
 3. In Colab, click **Run all**  
 4. You're ready to go and pay with sliders and parameters
@@ -23,7 +23,7 @@ All exercises for this workshop are provided as interactive Jupyter notebooks th
 
 ### ⚠️ Troubleshooting
 - If prompted, log into your Google account  
-- If the notebook opens in view-only mode, click **“Copy to Drive”**  
+- If the notebook opens in view-only mode, click **"Copy to Drive"**  
 - If something breaks: **Runtime → Restart and run all**
 
 ---
