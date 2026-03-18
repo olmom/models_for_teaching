@@ -12,11 +12,11 @@ All exercises for this workshop are provided as interactive Jupyter notebooks th
 
 ### 📘 Exercises
 
-**1. Production-Degradation Model** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/production_degradation.ipynb)
-**2. Simple Bistability** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/bistability_simple.ipynb)
-**3. Selkov Model (Oscillations)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/selkov.ipynb)
-**4. Goodwin Oscillator** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/goodwin.ipynb)
-**5. Coupled Goodwin Oscillators** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/coupled_goodwin.ipynb)
+**1. Production-Degradation Model** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/production_degradation.ipynb)  
+**2. Simple Bistability** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/bistability_simple.ipynb)  
+**3. Selkov Model (Oscillations)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/selkov.ipynb)  
+**4. Goodwin Oscillator** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/goodwin.ipynb)  
+**5. Coupled Goodwin Oscillators** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/coupled_goodwin.ipynb)  
 **6. Poincaré Oscillator** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olmom/models_for_teaching/blob/workshop_sliders/poincare.ipynb)
 
 ---
